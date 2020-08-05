@@ -6,6 +6,10 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="event_name">Enter event name…</string>
+    <string name="event_date">Enter event date…</string>
+    <string name="event_time">Enter event time…(Optional)</string>
+    <string name="add_event">Add event</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
